@@ -52,10 +52,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     <div class="lipstick-card">
                         <h3 class="card-title">${item.nama}</h3> 
                         <p class="card-brand">${item.brand}</p> 
-                        
                         <p class="card-price">${item.harga}</p> 
                         <p class="card-description">${item.deskripsi}</p>
-                        
                         <button class="buy-button">Beli Sekarang</button> 
                     </div>
                 `;
@@ -72,20 +70,22 @@ document.addEventListener('DOMContentLoaded', function() {
     const resultsContainer = document.getElementById('recommendationResult');
 
     if (recoForm) {
-        recoForm.addEventListener('submit', function(event) {
-            event.preventDefault(); 
+        if (recoForm.action.includes('login.php') === false) {
+            recoForm.addEventListener('submit', function(event) {
+                event.preventDefault(); 
 
-            const skinTone = document.getElementById('skinTone').value;
-            const lipType = document.getElementById('lipType').value;
-            
-            if (!skinTone || !lipType) {
-                resultsContainer.innerHTML = '<p style="color: var(--primary-color); text-align: center; margin-top: 20px;">⚠️ Mohon lengkapi semua pilihan di atas sebelum mencari rekomendasi.</p>';
-                return;
-            }
+                const skinTone = document.getElementById('skinTone').value;
+                const lipType = document.getElementById('lipType').value;
+                
+                if (!skinTone || !lipType) {
+                    resultsContainer.innerHTML = '<p style="color: var(--primary-color); text-align: center; margin-top: 20px;">⚠️ Mohon lengkapi semua pilihan di atas sebelum mencari rekomendasi.</p>';
+                    return;
+                }
 
-            let recommendations = getRecommendation(skinTone, lipType);
-            displayRecommendationResults(recommendations);
-        });
+                let recommendations = getRecommendation(skinTone, lipType);
+                displayRecommendationResults(recommendations);
+            });
+        }
     }
 
     function getRecommendation(skin, type) {
@@ -136,6 +136,18 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p style="margin-top: 25px; font-style: italic; font-size: 0.9em; list-style-type: none;">Rekomendasi ini bersifat umum. Eksplorasi selalu disarankan!</p>
             </div>
         `;
+    }
+
+    const togglePassword = document.querySelector('#togglePassword');
+    const password = document.querySelector('#password');
+
+    if (togglePassword && password) {
+        togglePassword.addEventListener('click', function (e) {
+            const type = password.getAttribute('type') === 'password' ? 'text' : 'password';
+            password.setAttribute('type', type);
+            
+            this.classList.toggle('fa-eye-slash');
+        });
     }
 
 });
