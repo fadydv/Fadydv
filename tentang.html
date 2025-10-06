@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -5,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>💄 Tentang Kami - Lipstick Recommender</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body>
 
@@ -13,10 +15,16 @@
         <p>Lipstick Recommender adalah impian yang menjadi kenyataan.</p>
         <nav>
             <ul>
-                <li><a href="index.html">Beranda</a></li>
-                <li><a href="katalog.html">Katalog Lengkap</a></li>
-                <li><a href="rekomendasi.html">Temukan Warna Idealmu</a></li>
-                <li><a href="tentang.html">Tentang Kami</a></li>
+                <li><a href="index.php">Beranda</a></li>
+                <li><a href="katalog.php">Katalog Lengkap</a></li>
+                <li><a href="rekomendasi.php">Temukan Warna Idealmu</a></li>
+                <li><a href="tentang.php">Tentang Kami</a></li>
+                <?php if (isset($_SESSION['username'])): ?>
+                    <li><a href="dashboard.php">Dashboard</a></li>
+                    <li><a href="logout.php" class="nav-button-logout"><i class="fa-solid fa-right-from-bracket"></i> Logout</a></li>
+                <?php else: ?>
+                    <li><a href="login.php" class="nav-button"><i class="fa-solid fa-right-to-bracket"></i> Login</a></li>
+                <?php endif; ?>
                 <li><button class="toggle-button" id="darkModeToggle">🌙 Mode Gelap</button></li>
             </ul>
         </nav>
