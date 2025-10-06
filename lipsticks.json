@@ -1,0 +1,37 @@
+[
+  {
+    "id": "M01",
+    "nama": "Ruby Woo",
+    "brand": "MAC",
+    "harga": "Rp 280.000",
+    "deskripsi": "Merah matte yang paling ikonik, formula sangat tahan lama."
+  },
+  {
+    "id": "F02",
+    "nama": "Uncuffed",
+    "brand": "Fenty Beauty",
+    "harga": "Rp 350.000",
+    "deskripsi": "Lipstik cair matte yang lembut, warna rosy mauve yang menyanjung."
+  },
+  {
+    "id": "M03",
+    "nama": "Pillow Talk",
+    "brand": "Charlotte Tilbury",
+    "harga": "Rp 400.000",
+    "deskripsi": "Warna nude-pink terlaris di dunia, memberikan ilusi bibir lebih penuh."
+  },
+  {
+    "id": "W04",
+    "nama": "Brown Creator",
+    "brand": "Wardah Colorfit",
+    "harga": "Rp 75.000",
+    "deskripsi": "Lipstik mousse bertekstur velvet dengan warna cokelat netral."
+  },
+  {
+    "id": "L05",
+    "nama": "Pioneer",
+    "brand": "Maybelline Superstay",
+    "harga": "Rp 150.000",
+    "deskripsi": "Merah terang dengan undertone biru. Tahan hingga 16 jam."
+  }
+]
