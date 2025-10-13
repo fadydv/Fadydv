@@ -1,4 +1,9 @@
-<?php session_start(); ?>
+<?php
+session_start();
+require 'koneksi.php';
+
+$result = $conn->query("SELECT * FROM products ORDER BY id DESC");
+?>
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -33,9 +38,31 @@
     <main>
         <section>
             <h2>Katalog Lipstick Lengkap</h2> 
-            <p>Jelajahi daftar produk lengkap di bawah ini, atau gunakan pencarian untuk memfilter hasil secara dinamis.</p>
+            <p>Jelajahi daftar produk lengkap dari database kami.</p>
+            
             <div id="katalogList" class="katalog-grid">
-                <p>Memuat data katalog...</p>
+                <?php if ($result->num_rows > 0): ?>
+                    <?php while($row = $result->fetch_assoc()): ?>
+                        <div class="lipstick-card">
+                            <img src="<?php echo htmlspecialchars($row['gambar']); ?>" alt="<?php echo htmlspecialchars($row['nama']); ?>" class="lipstick-image">
+                            <div class="lipstick-card-content">
+                                <h3 class="card-title"><?php echo htmlspecialchars($row['nama']); ?></h3> 
+                                <p class="card-brand"><?php echo htmlspecialchars($row['brand']); ?></p> 
+                                <p class="card-price"><?php echo htmlspecialchars($row['harga']); ?></p> 
+                                <p class="card-description"><?php echo htmlspecialchars($row['deskripsi']); ?></p>
+                                
+                                <?php if (isset($_SESSION['username'])): ?>
+                                    <div class="action-buttons">
+                                        <a href="edit.php?id=<?php echo $row['id']; ?>" class="edit-btn">Edit</a>
+                                        <a href="hapus.php?id=<?php echo $row['id']; ?>" class="delete-btn" onclick="return confirm('Anda yakin ingin menghapus produk ini?');">Hapus</a>
+                                    </div>
+                                <?php endif; ?>
+                            </div>
+                        </div>
+                    <?php endwhile; ?>
+                <?php else: ?>
+                    <p style="text-align: center; width: 100%; grid-column: 1 / -1;">Belum ada produk di katalog. Silakan login sebagai admin untuk menambahkan produk.</p>
+                <?php endif; ?>
             </div>
         </section>
         
@@ -55,49 +82,11 @@
                 <dd>Merek kosmetik dari Tiongkok yang sedang naik daun, menawarkan produk dengan formula ringan dan modern.</dd>
             </dl>
         </section>
-
-        <section>
-            <h2>Daftar Produk</h2>
-            <p>Temukan lipstik idamanmu dari daftar lengkap di bawah ini:</p>
-            <article>
-                <h3>MAC Matte Lipstick</h3>
-                <ul>
-                    <li>Ruby Woo: Merah cerah klasik dengan finish matte. Sangat pigmented.</li>
-                    <li>Velvet Teddy: Nude cokelat yang lembut, sempurna untuk tampilan sehari-hari.</li>
-                    <li>Chili: Merah-cokelat hangat yang cocok untuk kulit sawo matang.</li>
-                </ul>
-            </article>
-            <article>
-                <h3>Wardah Colorfit Velvet Matte Lip Mousse</h3>
-                <ul>
-                    <li>08 Brown Creator: Warna cokelat netral yang cocok untuk semua undertone.</li>
-                    <li>10 Vibrant Red: Merah terang yang membuat wajah tampak segar.</li>
-                    <li>12 Cocoa Mood: Cokelat gelap untuk tampilan yang dramatis dan bold.</li>
-                </ul>
-            </article>
-            <article>
-                <h3>Maybelline Superstay Matte Ink Liquid Lipstick</h3>
-                <ul>
-                    <li>Pioneer: Merah dengan undertone biru yang membuat gigi terlihat lebih putih.</li>
-                    <li>Lover: Pink keunguan yang manis.</li>
-                    <li>Seductress: Nude cokelat-karamel yang tahan lama hingga 16 jam.</li>
-                </ul>
-            </article>
-            <article>
-                <h3>NYX Soft Matte Lip Cream</h3>
-                <ul>
-                    <li>Stockholm: Nude-peach hangat yang populer.</li>
-                    <li>Cannes: Dusty rose dengan undertone netral.</li>
-                    <li>Monte Carlo: Merah tua yang elegan.</li>
-                </ul>
-            </article>
-        </section>
     </main>
 
     <footer>
         <p>&copy; 2025 Lipstick Recommender.</p>
     </footer>
-
     <script src="script.js"></script>
 </body>
 </html>
