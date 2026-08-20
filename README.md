@@ -1,10 +1,12 @@
 <div align="center">
 
   <!-- Baris Animasi Banner Karakter Imut Bergerak di Atas -->
-  <img src="https://media.giphy.com/media/2vSk4f18F12f2/giphy.gif" width="95px" />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="95px" />
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="95px" />
-  <img src="https://media.giphy.com/media/hvRJCLFzCASrvR4DaB/giphy.gif" width="95px" />
+  <p>
+    <img src="https://media.giphy.com/media/2vSk4f18F12f2/giphy.gif" width="90px" />
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="90px" />
+    <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="90px" />
+    <img src="https://media.giphy.com/media/hvRJCLFzCASrvR4DaB/giphy.gif" width="90px" />
+  </p>
 
   <h1>✨🎀🌸 Hi there, I'm Andi Nurfadillah Hasan! 🌸🎀✨</h1>
   
@@ -16,7 +18,9 @@
   <!-- Baris Badge & Visitor Super Ramai -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=fadydv&color=ff69b4&style=for-the-badge&label=Sweet+Visitors" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Status-Debugging%20%26%20Boba-ff69b4?style=for-the-badge" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Vibe-Kawaii%20Pink-ffb6c1?style=for-the-badge" />
   </p>
 
@@ -24,17 +28,17 @@
 
 ---
 
-<!-- Bagian Tentang Aku yang Padat, Rapih, dan Tanpa Space Kosong -->
+<!-- Bagian Tentang Aku (Dirapikan tanpa list Markdown agar sejajar rapi) -->
 <div align="center">
   <h2>☁️ 🌸 About Me & My Little World 🌸 ☁️</h2>
   <br>
-  <table align="center" border="0" cellpadding="8" cellspacing="0" style="width: 85%;">
+  <table align="center" border="0" cellpadding="6" cellspacing="0" style="width: 80%;">
     <tr>
       <td align="center" width="35%" style="vertical-align: middle;">
-        <img src="https://media.giphy.com/media/mlvivIB9yGHzG/giphy.gif" width="130px" /><br><br>
-        <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="100px" />
+        <img src="https://media.giphy.com/media/mlvivIB9yGHzG/giphy.gif" width="120px" /><br><br>
+        <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="90px" />
       </td>
-      <td width="65%" style="vertical-align: middle; text-align: left; font-size: 14.5px; line-height: 1.8;">
+      <td width="65%" style="vertical-align: middle; text-align: left; font-size: 14.5px; line-height: 1.9;">
         🌸 <b>Nama:</b> Andi Nurfadillah Hasan<br>
         🌷 <b>Prodi:</b> Informatika<br>
         🎀 <b>Fokus:</b> UI/UX Design & Frontend Web Development<br>
@@ -61,8 +65,11 @@
   <!-- Lencana Keahlian Tambahan Berderet Ramai -->
   <p>
     <img src="https://img.shields.io/badge/Java-OOP-ff69b4?style=flat-square&logo=openjdk&logoColor=white" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Python-AI%20Academy-ffb6c1?style=flat-square&logo=python&logoColor=white" />
+    &nbsp;
     <img src="https://img.shields.io/badge/UI%2FX-Figma-ff69b4?style=flat-square&logo=figma&logoColor=white" />
+    &nbsp;
     <img src="https://img.shields.io/badge/Frontend-React-ffb6c1?style=flat-square&logo=react&logoColor=white" />
   </p>
 </div>
@@ -75,13 +82,15 @@
   <p style="margin: 5px 0 15px 0;"><em>Biar halamannya nggak sepi dan penuh keceriaan!</em></p>
 
   <!-- Baris Animasi Karakter Lucu Berjejer Banyak -->
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100px" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/l378u9G7x6nO4yF0Q/giphy.gif" width="110px" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzCASrvR4DaB/giphy.gif" width="100px" />
+  <p>
+    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="95px" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://media.giphy.com/media/l378u9G7x6nO4yF0Q/giphy.gif" width="105px" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://media.giphy.com/media/hvRJCLFzCASrvR4DaB/giphy.gif" width="95px" />
+  </p>
 
-  <br><br>
+  <br>
 
   <!-- Statistik Angka/Badge Mini yang Lucu -->
   <p><img src="https://img.shields.io/github/followers/fadydv?color=ff69b4&style=social&label=Follow%20My%20GitHub" /></p>
@@ -95,21 +104,23 @@
   <p style="margin: 5px 0 15px 0;"><em>Yuk, terhubung dan berteman lewat sosial media!</em></p>
 
   <!-- Tombol Sosmed Cantik Berkilau -->
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
+  <p>
+    <a href="https://instagram.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    </a>
+  </p>
 
-  <br><br>
+  <br>
 
   <!-- Animasi Footer Karakter Imut Bergerak Besar -->
-  <img src="https://media.giphy.com/media/2vSk4f18F12f2/giphy.gif" width="130px" />
+  <img src="https://media.giphy.com/media/2vSk4f18F12f2/giphy.gif" width="120px" />
   
   <p style="color: #ff69b4; font-weight: bold; margin-top: 10px; font-size: 15px;">
-    ✨ Terima kasih sudah mampir ke profilku, have a nice day! ( ˘ ³˘)♥ ✨
+    ✨ Terima kasih sudah mampir ke profilku, have a nice day! ( ˘ ³ಜ್ ucapkan salam manis) ✨
   </p>
 
 </div>
