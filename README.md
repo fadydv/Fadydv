@@ -1,97 +1,96 @@
 <div align="center">
 
-  <!-- Header Lucu dengan Animasi Panda/Bears Kawaii -->
-  <img src="https://media.giphy.com/media/2vSk4f18F12f2/giphy.gif" width="120px" />
-  
-  <h1>
-    ✨ Hi there, I'm fadydv! 🌸
-  </h1>
+  <!-- Animasi Header: Banner Pink Estetik -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=180&section=header&text=Hi%20there,%20I'm%20Andi!%20%E2%9C%A8&fontSize=35&fontColor=ffffff&animation=fadeIn&fontY=38" />
+
+  <!-- Animasi Karakter Lucu Melambaikan Tangan -->
+  <img src="https://media.giphy.com/media/hvRJCLFzCASrvR4DaB/giphy.gif" width="100px" style="margin-top: -20px;" />
+
   <p><em>🎀 Mahasiswa Informatika | UI/UX & Frontend Enthusiast 🎀</em></p>
 
-  <!-- Baris Badge Imut -->
+  <!-- Visitor Counter dengan Badge Lucu -->
   <p>
-    <img src="https://img.shields.io/badge/Status-Coding%20&%20Drinking%20Boba-ff69b4?style=for-the-badge&logo=coffeescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mood-Super%20Happy-ffb6c1?style=for-the-badge&logo=cute&logoColor=white" />
+    <img src="https://komarev.com/ghpvc/?username=fadydv&color=ff69b4&style=flat-square&label=Sweet+Visitors" />
+    <img src="https://img.shields.io/badge/Status-Drinking%20Boba%20🧋-ff69b4?style=flat-square" />
+    <img src="https://img.shields.io/badge/Mood-Super%20Happy%20✨-ffb6c1?style=flat-square" />
   </p>
 
-  <!-- Visitor Counter Pink Lucu -->
-  <img src="https://komarev.com/ghpvc/?username=fadydv&color=ff69b4&style=flat-square&label=Sweet+Visitors" alt="Visitor Count" />
-
 </div>
 
 ---
 
-## ☁️ About Me 
-
+<!-- Bagian Tentang Aku dengan Kotak Estetik -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <ul>
-          🌸 <b>Nama:</b> Andi Nurfadillah Hasan<br>
-          🌷 <b>Jurusan:</b> Informatika (Semester 4)<br>
-          🎀 <b>Fokus:</b> UI/UX Design & Frontend Web Development<br>
-          🍰 <b>Hobi:</b> Ngoding sambil dengerin musik & bikin desain estetik<br>
-          ⭐ <b>Bahasa:</b> Java, Python, C++, HTML/CSS
-        </ul>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180px" />
-      </td>
-    </tr>
-  </table>
+  <h2>☁️ 🌸 About Me 🌸 ☁️</h2>
+</div>
+
+<table align="center" border="0" cellpadding="10">
+  <tr>
+    <td align="center" width="40%">
+      <!-- Animasi Karakter Kawaii Menggemaskan -->
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px" />
+    </td>
+    <td width="60%">
+      <ul>
+        🌸 <b>Nama:</b> Andi Nurfadillah Hasan<br><br>
+        🌷 <b>Prodi:</b> Informatika<br><br>
+        🎀 <b>Fokus:</b> UI/UX Design & Frontend Web Development<br><br>
+        🍰 <b>Hobi:</b> Mendengarkan musik<br><br>
+        ⭐ <b>Tech Tools:</b> Java, Python, C++, HTML/CSS, Figma
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Bagian Skill Stack dengan Animasi Bergerak -->
+<div align="center">
+  <h2>🍡 ✨ Sweet Tech Stack & Tools ✨ 🍡</h2>
+  <p><em>Teknologi yang biasa aku pakai untuk bikin project</em></p>
+  <br>
+
+  <!-- Ikon Tech Stack Berwarna -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,figma,git,github,vscode,arduino" />
+
+  <br><br>
+  <!-- Animasi Kucing Ngetik Imut -->
+  <img src="https://media.giphy.com/media/mlvivIB9yGHzG/giphy.gif" width="130px" />
 </div>
 
 ---
 
-## 🍡 My Sweet Tech Stack
-
+<!-- Bagian Kutipan / Quote Interaktif Pink -->
 <div align="center">
-
-<!-- Banner Ikon Tech Stack yang Colorful -->
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,figma,git,github,vscode" />
-
-<br><br>
-<!-- Animasi Kucing Lucu Ngetik -->
-<img src="https://media.giphy.com/media/mlvivIB9yGHzG/giphy.gif" width="150px" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=16&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Code.exe+is+running+with+lots+of+love...;UI%2FUX+Design+%2B+Frontend+Developer;Let's+build+something+pretty+together!%F0%9F%8E%80" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🎀 GitHub Stats
-
+<!-- Bagian Connect with Me -->
 <div align="center">
+  <h2>💕 Let's Be Friends! 💕</h2>
+  <p><em>Yuk, terhubung dan berteman lewat sosial media!</em></p>
+  <br>
 
-<!-- Menggunakan Trophy bertema Pink/Nord/Pastel yang Aman dari Error -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=fadydv&theme=buefy&no-frame=true&margin-w=15&margin-h=15&column=3" alt="fadydv's Trophy" />
-</a>
+  <!-- Tombol Sosmed Cantik Berkilaunya -->
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
 
-<br><br>
+  <br><br><br>
 
-<!-- Kartu Kontribusi dengan Warna Pink Manis -->
-<img src="https://github-readme-stats.vercel.app/api?username=fadydv&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ffb6c1&text_color=ffd1dc&bg_color=1a001a" alt="Fadydv Stats" height="160px" />
+  <!-- Animasi Footer Bunga & Kucing Lucu -->
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220px" />
+  
+  <p style="color: #ff69b4; font-weight: bold; margin-top: 15px;">
+    ✨ Terima kasih sudah mampir ke profilku, have a nice day! ( ˘ ³˘)♥ ✨
+  </p>
 
-</div>
-
----
-
-<div align="center">
-
-## 💕 Let's Be Friends! 💕
-
-<br>
-
-<!-- Tombol Sosmed Cantik -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-
-<br><br>
-
-<!-- Animasi Kucing/Bunga Lucu di Footer -->
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250px" />
-<br>
-<i>✨ Terima kasih sudah mampir ke profilku, have a nice day! ( ˘ ³˘)♥ ✨</i>
-
+  <!-- Animasi Footer Gelombang Pink di Paling Bawah -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer&animation=fadeIn" style="margin-bottom: -15px;" />
 </div>
