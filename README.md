@@ -1,63 +1,86 @@
 <div align="center">
-
-# Halo, Aku fadydv! ✨🌸
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/coding.gif" width="300" align="right" alt="Coding GIF">
-
-[![Visitor Count](https://komarev.com/ghpvc/?username=fadydv&color=ff69b4&style=flat-square&label=PROFILE+VISITS)](https://github.com/fadydv)
-[![GitHub followers](https://img.shields.io/github/followers/fadydv?color=ffb6c1&style=flat-square&logo=github&label=Followers)](https://github.com/fadydv?tab=followers)
-
-### 💻 Mahasiswa Informatika | UI/UX & Frontend Enthusiast
-
-<br>
+  
+  <h1>
+    👋 Hai, Saya <a href="https://github.com/fadydv" target="_blank">fadydv</a>! 
+    <img src="https://media.giphy.com/media/hvRJCLFzCASrvR4DaB/giphy.gif" width="30px">
+  </h1>
+  <p><em>Mahasiswa Informatika | UI/UX & Frontend Enthusiast</em></p>
+  
+  <div align="right">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/giphy.gif" width="250px" align="right">
+  </div>
+  
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=fadydv&theme=dark&hide_border=true&date_format=M%20j%2C%20Y&locale=en&mode=daily&border_radius=5&day_label=ff69b4&currStreakLabel=ff69b4&currStreakNum=ffd1dc&sideNums=ffd1dc&sideLabels=ffd1dc&dates=ffd1dc&fire=ff69b4&ring=ff69b4&background=0D1117" alt="Fadydv's GitHub Streak" />
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=fadydv&color=ff69b4&style=plastic&label=Profile+Views" alt="Visitor Count" />
 
 </div>
 
 ---
 
-### 🌷 Tentang Aku
+## ✨ Tentang Aku
 
-* 🔭 Sedang fokus belajar **UI/UX Design** dan **Frontend Web Development**.
-* ⚡ Suka merancang antarmuka yang minimalis, bersih, dan estetik.
-* 🌱 Aktif mengeksplorasi bahasa pemrograman seperti **Java, Python, dan C++**.
-* 🌸 Halaman ini bernuansa pink karena warna favoritku!
+<br>
 
----
+<div align="left">
 
-### 🎨 Tech Stack & Tools
+> * 🎓 Saat ini menempuh pendidikan di jurusan **Informatika**, dengan fokus pada **UI/UX Design** dan **Frontend Development**.
+> * 💡 Tertarik menciptakan antarmuka (interface) yang indah, intuitif, dan fungsional.
+> * 🌸 Sedang memperdalam **React.js**, **Figma**, dan senang bereksperimen dengan desain minimalis.
+> * 🛠️ Selain coding, saya menikmati membuat ilustrasi digital dan prototyping interaktif.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</div>
 
----
-
-### 📊 GitHub Stats (Pink Edition)
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=fadydv&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=ffd1dc&bg_color=121212" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadydv&layout=compact&theme=vue-dark&hide_border=true&title_color=ff69b4&text_color=ffd1dc&bg_color=121212" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fadydv&theme=vue-dark&hide_border=true&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffd1dc&dates=ffd1dc&bg_color=121212" />
-</p>
+<br>
 
 ---
 
 <div align="center">
 
-### 🎵 Let's Connect!
+## 🛠️ Skill Stack & Tools
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,figma,git,github,vscode,xd,arduino" /><br>
+<img src="https://c.tenor.com/N_4j8bF_tGEAAAAi/cat-typing.gif" width="100px" alt="Typing Cat">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/heart.gif" width="30" /> **Terima kasih sudah mampir ke profilku!** <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/media/heart.gif" width="30" />
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=fadydv&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=ffd1dc&bg_color=0d1117" alt="Fadydv's GitHub Stats" height="150px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadydv&layout=compact&theme=vue-dark&hide_border=true&title_color=ff69b4&text_color=ffd1dc&bg_color=0d1117" alt="Fadydv's Top Languages" height="150px">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fadydv&theme=vue-dark&hide_border=true&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffd1dc&dates=ffd1dc&bg_color=0d1117" alt="Fadydv's GitHub Streak">
+
+</div>
+
+---
+
+<div align="center">
+
+## 💖 Connect with Me!
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/)
+
+<br>
+<br>
+
+<img src="https://media.giphy.com/media/l378u9G7x6nO4yF0Q/giphy.gif" width="400px">
+<br>
+*Terima kasih telah berkunjung! Semoga harimu menyenangkan. (✿◠‿◠)*
 
 </div>
