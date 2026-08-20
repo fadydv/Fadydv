@@ -2,7 +2,7 @@
 
 # Fadydv
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=2500&pause=800&color=168AAD&center=true&vCenter=true&width=650&lines=Informatics+Student;Learning+%26+Building;Web+Development+Enthusiast;Turning+ideas+into+code"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=2500&pause=800&color=168AAD&center=true&vCenter=true&width=650&lines=Informatics+Student;Learning+%26+Building;Web+Development+Enthusiast;Turning+Ideas+Into+Code"/>
 
 </div>
 
@@ -23,9 +23,7 @@ Currently learning:
 ## Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,mysql,git,github,vscode,figma&theme=light"/>
-
 </div>
 
 ## Projects
@@ -51,9 +49,7 @@ Currently learning:
 ## Currently Learning
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&duration=1800&pause=600&color=168AAD&center=true&vCenter=true&width=550&lines=Learning+new+technologies;Building+small+projects;Improving+my+programming+skills;Exploring+web+development"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=17&duration=1800&pause=600&color=168AAD&center=true&vCenter=true&width=550&lines=Learning+new+technologies;Building+small+projects;Improving+programming+skills;Exploring+web+development"/>
 </div>
 
 ## Contact
@@ -67,11 +63,5 @@ Currently learning:
 <a href="https://instagram.com/fadydv">
 <img src="https://img.shields.io/badge/Instagram-219EBC?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=168AAD&height=100&section=footer"/>
 
 </div>
