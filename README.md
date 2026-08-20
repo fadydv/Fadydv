@@ -1,86 +1,97 @@
 <div align="center">
+
+  <!-- Header Lucu dengan Animasi Panda/Bears Kawaii -->
+  <img src="https://media.giphy.com/media/2vSk4f18F12f2/giphy.gif" width="120px" />
   
   <h1>
-    👋 Hai, Saya <a href="https://github.com/fadydv" target="_blank">fadydv</a>! 
-    <img src="https://media.giphy.com/media/hvRJCLFzCASrvR4DaB/giphy.gif" width="30px">
+    ✨ Hi there, I'm fadydv! 🌸
   </h1>
-  <p><em>Mahasiswa Informatika | UI/UX & Frontend Enthusiast</em></p>
-  
-  <div align="right">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/giphy.gif" width="250px" align="right">
-  </div>
-  
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=fadydv&theme=dark&hide_border=true&date_format=M%20j%2C%20Y&locale=en&mode=daily&border_radius=5&day_label=ff69b4&currStreakLabel=ff69b4&currStreakNum=ffd1dc&sideNums=ffd1dc&sideLabels=ffd1dc&dates=ffd1dc&fire=ff69b4&ring=ff69b4&background=0D1117" alt="Fadydv's GitHub Streak" />
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=fadydv&color=ff69b4&style=plastic&label=Profile+Views" alt="Visitor Count" />
+  <p><em>🎀 Mahasiswa Informatika | UI/UX & Frontend Enthusiast 🎀</em></p>
+
+  <!-- Baris Badge Imut -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Coding%20&%20Drinking%20Boba-ff69b4?style=for-the-badge&logo=coffeescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mood-Super%20Happy-ffb6c1?style=for-the-badge&logo=cute&logoColor=white" />
+  </p>
+
+  <!-- Visitor Counter Pink Lucu -->
+  <img src="https://komarev.com/ghpvc/?username=fadydv&color=ff69b4&style=flat-square&label=Sweet+Visitors" alt="Visitor Count" />
 
 </div>
 
 ---
 
-## ✨ Tentang Aku
+## ☁️ About Me 
 
-<br>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          🌸 <b>Nama:</b> Andi Nurfadillah Hasan<br>
+          🌷 <b>Jurusan:</b> Informatika (Semester 4)<br>
+          🎀 <b>Fokus:</b> UI/UX Design & Frontend Web Development<br>
+          🍰 <b>Hobi:</b> Ngoding sambil dengerin musik & bikin desain estetik<br>
+          ⭐ <b>Bahasa:</b> Java, Python, C++, HTML/CSS
+        </ul>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<div align="left">
+---
 
-> * 🎓 Saat ini menempuh pendidikan di jurusan **Informatika**, dengan fokus pada **UI/UX Design** dan **Frontend Development**.
-> * 💡 Tertarik menciptakan antarmuka (interface) yang indah, intuitif, dan fungsional.
-> * 🌸 Sedang memperdalam **React.js**, **Figma**, dan senang bereksperimen dengan desain minimalis.
-> * 🛠️ Selain coding, saya menikmati membuat ilustrasi digital dan prototyping interaktif.
+## 🍡 My Sweet Tech Stack
+
+<div align="center">
+
+<!-- Banner Ikon Tech Stack yang Colorful -->
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,figma,git,github,vscode" />
+
+<br><br>
+<!-- Animasi Kucing Lucu Ngetik -->
+<img src="https://media.giphy.com/media/mlvivIB9yGHzG/giphy.gif" width="150px" />
 
 </div>
 
-<br>
+---
+
+## 🎀 GitHub Stats
+
+<div align="center">
+
+<!-- Menggunakan Trophy bertema Pink/Nord/Pastel yang Aman dari Error -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=fadydv&theme=buefy&no-frame=true&margin-w=15&margin-h=15&column=3" alt="fadydv's Trophy" />
+</a>
+
+<br><br>
+
+<!-- Kartu Kontribusi dengan Warna Pink Manis -->
+<img src="https://github-readme-stats.vercel.app/api?username=fadydv&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ffb6c1&text_color=ffd1dc&bg_color=1a001a" alt="Fadydv Stats" height="160px" />
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🛠️ Skill Stack & Tools
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,python,figma,git,github,vscode,xd,arduino" /><br>
-<img src="https://c.tenor.com/N_4j8bF_tGEAAAAi/cat-typing.gif" width="100px" alt="Typing Cat">
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
+## 💕 Let's Be Friends! 💕
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fadydv&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1&text_color=ffd1dc&bg_color=0d1117" alt="Fadydv's GitHub Stats" height="150px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadydv&layout=compact&theme=vue-dark&hide_border=true&title_color=ff69b4&text_color=ffd1dc&bg_color=0d1117" alt="Fadydv's Top Languages" height="150px">
+<!-- Tombol Sosmed Cantik -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
+<br><br>
+
+<!-- Animasi Kucing/Bunga Lucu di Footer -->
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250px" />
 <br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fadydv&theme=vue-dark&hide_border=true&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ffd1dc&dates=ffd1dc&bg_color=0d1117" alt="Fadydv's GitHub Streak">
-
-</div>
-
----
-
-<div align="center">
-
-## 💖 Connect with Me!
-
-<br>
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/)
-
-<br>
-<br>
-
-<img src="https://media.giphy.com/media/l378u9G7x6nO4yF0Q/giphy.gif" width="400px">
-<br>
-*Terima kasih telah berkunjung! Semoga harimu menyenangkan. (✿◠‿◠)*
+<i>✨ Terima kasih sudah mampir ke profilku, have a nice day! ( ˘ ³˘)♥ ✨</i>
 
 </div>
